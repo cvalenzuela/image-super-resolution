@@ -1,5 +1,7 @@
 # Image Super-Resolution (ISR)
 
+[![RunwayML Badge](https://open-app.runwayml.com/gh-badge.svg)](https://open-app.runwayml.com/?model=runway/Image-Super-Resolution)
+
 <img src="figures/butterfly.png">
 
 [![Build Status](https://travis-ci.org/idealo/image-super-resolution.svg?branch=master)](https://travis-ci.org/idealo/image-super-resolution)
